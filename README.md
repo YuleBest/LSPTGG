@@ -1,14 +1,3 @@
----
-title: 专题：LSPosed 的 Telegram 群聊消息数量统计
-date: 2024-11-20 00:12:11
-tags:
-- 专题
-categories:
-- 专题
-id: lsp
-cover: https://maxpcimg.cc/i/2024/11/20/673d79a8e8a21.jpg
----
-
 # 节点消息展览
 
 | ID      | 日期              | 发送者                                         | 内容                           |
