@@ -8,7 +8,7 @@
 
 ## 引言
 
-截至 2024/11/21 23:59:59，[LSPosed Discussion](https://t.me/LSPosedDiscussion) 的总消息数量为 **1842660** 条；
+截至 2024/11/22 23:59:59，[LSPosed Discussion](https://t.me/LSPosedDiscussion) 的总消息数量为 **1842660** 条；
 
 昨日的**消息数量**为 **2641** 条，较前日**减少了 1108 条**；
 
