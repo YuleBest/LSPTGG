@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd463af2-42c2-4a34-954c-e9bc28b56ef6)![幻灯片1](https://github.com/user-attachments/assets/704a54ba-b1a2-4648-9920-2bab319892cc)
+![幻灯片1](https://github.com/user-attachments/assets/704a54ba-b1a2-4648-9920-2bab319892cc)
 
 ---
 
